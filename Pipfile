@@ -9,6 +9,9 @@ numpy = "*"
 pandas = "*"
 sklearn = "*"
 tensorflow = "*"
+ipykernel = "*"
+black = "*"
+seaborn = "*"
 
 [dev-packages]
 
