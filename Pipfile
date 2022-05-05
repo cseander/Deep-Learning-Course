@@ -8,12 +8,11 @@ matplotlib = "*"
 numpy = "*"
 pandas = "*"
 sklearn = "*"
-tensorflow = "*"
 ipykernel = "*"
 black = "*"
 seaborn = "*"
 opencv-python = "*"
-tensorflow-datasets = "*"
+tensorflow-gpu = "*"
 
 [dev-packages]
 
