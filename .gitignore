@@ -128,4 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# folders to ignore
 misclassifications/
+test/
+train/
+experiment_small_data/
+experiment_tiny_data/
