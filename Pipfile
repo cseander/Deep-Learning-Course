@@ -13,6 +13,8 @@ black = "*"
 seaborn = "*"
 opencv-python = "*"
 tensorflow-gpu = "*"
+spacy = "*"
+transformers = "*"
 
 [dev-packages]
 
