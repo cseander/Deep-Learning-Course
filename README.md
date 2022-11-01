@@ -1,1 +1,1 @@
-# Deep_laerning_Christopher_Seander
+# Deep_learning_Christopher_Seander
